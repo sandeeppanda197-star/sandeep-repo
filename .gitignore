@@ -1,35 +1,18 @@
 #
-# Copyright (C) 2011-2012 Barchart, Inc. <http://www.barchart.com/>
+# Copyright (C) 2009-2012 Barchart, Inc. <http://www.barchart.com/>
 #
 # All rights reserved. Licensed under the OSI BSD License.
 #
 # http://www.opensource.org/licenses/bsd-license.php
 #
 
-#
-# idea metadata
-#
-*.eml
-*.iml
-*.ipr
-*.iws
-.idea/
+/.project
+/.classpath
+/.settings
 
-#
-# eclipse metadata
-#
-.project
-.classpath
-.settings
 
-#
-# build folders
-#
 /bin
 /target
 
-#
-# release artifacts
-#
 /release.properties
 /pom.xml.*
